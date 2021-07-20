@@ -19,13 +19,6 @@ console.log(surnameList.push(id_surname));
 console.log(surnameList.sort());
 
 
-// Ciclo for
-
-for (i = 1; i < surnameList.length; i++) {
-    console.log(surnameList.indexOf(id_surname))
-}
-
-
 // Ciclo while
 
 var i = 1
@@ -36,3 +29,4 @@ while (i < surnameList.length) {
 
     i++
 }
+
